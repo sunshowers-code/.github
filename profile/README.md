@@ -1,6 +1,6 @@
 This organization, at some point in the future, will contain the source code for *published projects* owned by Rain ([@sunshowers](https://github.com/sunshowers)).
 
-A published project is one that has had releases and is generally fit for public consumption.
+A published project is one that has had releases, usually to some package repository like [crates.io](https://crates.io/), and is generally fit for public use and contributions.
 
 The transition will happen over time.
 
